@@ -6,7 +6,8 @@ A simple and interactive web application that detects emotions in text using a t
 - Real-time emotion detection
 - User-friendly Streamlit interface
 - Displays predicted emotion and confidence score
-
+## markdown
+- demo.png
 ## Technologies Used
 - Python
 - Streamlit
